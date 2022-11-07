@@ -17,4 +17,10 @@ We are going to build simple full stack application featuring user generated con
 - fast
 - simple to set up
 - tiny package
-  
+
+---
+#### 07.11.2022
+I have created new repository with solidStart. Thanks to solidStart tailwind is already implemented.
+We are also going to use [pocketbase.io](https://pocketbase.io) as our database hosting.
+
+---
